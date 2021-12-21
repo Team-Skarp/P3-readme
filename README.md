@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Priotool</h3>
+<h3 align="center">#Priotool</h3>
 
   <p align="center">
     <br />
