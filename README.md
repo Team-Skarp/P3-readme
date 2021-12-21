@@ -3,10 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">react-kanban</h3>
+<h3 align="center">Priotool</h3>
 
   <p align="center">
-    Priotool
     <br />
     <br />
     <a href="https://priotool.com/">View Demo</a>
@@ -88,8 +87,8 @@ _Below is an example of how you can install and run the application. the webpack
 <!-- CONTACT -->
 ## Contact
 
-Team Github - [@Team-Skarp](https://github.com/Team-Skarp)
-Team Mail - [teamskarp@protonmail.com](mailto:teamskarp@protonmail.com)
+- Team Github - [@Team-Skarp](https://github.com/Team-Skarp)
+- Team Mail - [teamskarp@protonmail.com](mailto:teamskarp@protonmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
