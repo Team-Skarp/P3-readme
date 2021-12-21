@@ -55,7 +55,7 @@ _Below is an example of how you can install and run the application. The Java Sp
 
 1. Open project with IntelliJ
 
-2. Run the from program as usual from the PrioApplication Class
+2. Run the program as usual from the PrioApplication Class
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
