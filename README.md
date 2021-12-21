@@ -30,7 +30,7 @@
 ### Before Running the system:
 
 **Note that the Backend Server should be started before running the React Application**
-Demo Credentials for the system:
+<p>Demo Credentials for the system:</p>
 - **Username**: DemoUser
 - **Password**: password
 
@@ -39,6 +39,7 @@ Demo Credentials for the system:
 _Below is an example of how you can install and run the application. The Java Spring program will start a Tomcat Server on port 3000_
 
 #### Run program with precompilled executeable
+
 1. Open path to project in CMD
 2. Locate .jar file in directory
     ```cmd
@@ -51,14 +52,10 @@ _Below is an example of how you can install and run the application. The Java Sp
  
 
 #### Run program with IntelliJ
-1. Clone the repo
-   ```cmd
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-2. Open project with IntelliJ
 
-3. Run the from program as usual from the PrioApplication Class
+1. Open project with IntelliJ
 
+2. Run the from program as usual from the PrioApplication Class
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,10 +64,7 @@ _Below is an example of how you can install and run the application. The Java Sp
 
 _Below is an example of how you can install and run the application. the webpack will start the project on port 3001_
 
-- 1: Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+- 1: Navigate to p3-frontend/app
 - 2:Install NPM packages
    ```sh
    npm install
