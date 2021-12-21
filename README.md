@@ -28,17 +28,18 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Running the system:
-- **Username**: DemoUser
-- **Password**: password
+### Before Running the system:
 
 **Note that the Backend Server should be started before running the React Application**
+Demo Credentials for the system:
+- **Username**: DemoUser
+- **Password**: password
 
 ### Installation - Backend
 
 _Below is an example of how you can install and run the application. The Java Spring program will start a Tomcat Server on port 3000_
 
-**Run program with precompilled executeable**
+#### Run program with precompilled executeable
 1. Open path to project in CMD
 2. Locate .jar file in directory
     ```cmd
@@ -50,7 +51,7 @@ _Below is an example of how you can install and run the application. The Java Sp
     ```
  
 
-**Run program with IntelliJ**
+#### Run program with IntelliJ
 1. Clone the repo
    ```cmd
    git clone https://github.com/your_username_/Project-Name.git
